@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/felipesantana/dados/bootcamp/notebooks/mlruns/1/5eaea37c7f224bc89b488e27dd0e5e38/artifacts
+end_time: 1623973060544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5eaea37c7f224bc89b488e27dd0e5e38
+run_uuid: 5eaea37c7f224bc89b488e27dd0e5e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623973060375
+status: 4
+tags: []
+user_id: alan_
